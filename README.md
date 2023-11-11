@@ -1,2 +1,0 @@
-# QIS
- Quantile Importance Sampling
