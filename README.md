@@ -13,6 +13,9 @@ In Bayesian inference, the approximation of integrals of the form $\psi = \mathb
 
 We show a couple of examples to demonstrate the efficiency of QIS vs. other common strategies. The individual quarto markdown files and the rendered html files are available in the repository as QIS.qmd, QIS.html and QIS_MVT.qmd, QIS_MVT.html respectively. 
 
+1. Normal prior, normal likelihood: https://htmlpreview.github.io/?https://github.com/DattaHub/QIS/blob/main/QIS.html
+2. Multivariate t-likelihood: https://htmlpreview.github.io/?https://github.com/DattaHub/QIS/blob/main/QIS_MVT.html
+
 
 
 
