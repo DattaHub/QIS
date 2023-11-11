@@ -1,8 +1,3 @@
----
-title: "README"
-format: html
----
-
 ## Quantile Importance Sampling 
 
 **Preprint**: [https://arxiv.org/abs/2305.03158](https://arxiv.org/abs/2305.03158)
@@ -17,6 +12,7 @@ In Bayesian inference, the approximation of integrals of the form $\psi = \mathb
 ## Examples 
 
 We show a couple of examples to demonstrate the efficiency of QIS vs. other common strategies. The individual quarto markdown files and the rendered html files are available in the repository as QIS.qmd, QIS.html and QIS_MVT.qmd, QIS_MVT.html respectively. 
+
 
 
 
